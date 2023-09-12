@@ -23,9 +23,9 @@ renglones
 - General store manager 2022 - present
 
 # Featured Projects
-- Diabetes [Publication]()
+- Diabetes [Publication](https://www.overleaf.com/read/kfmjdgbmcfrq)
 - Specific Charge of the electron. [Publication](https://www.overleaf.com/read/vnwqjrqswrdv)
-- compton [Publication]()
+- Rest energy of the electron through Compton effect. [Publication](https://www.overleaf.com/read/nhnzbpwxpznd)
 
 # Technical Skills
 - Python
