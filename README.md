@@ -7,12 +7,14 @@
 - Bachelor's Degree in Physics
   UNLP, 2018 - Present
 
-# Languaje
+# Language
 - Spanish: Native
 - English: Business Proficient
 
 # Summary
-
+ponele
+tres
+renglones
 
 # Work Experience
 - Bank customer service representative 2010 - 2014
