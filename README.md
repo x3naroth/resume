@@ -24,7 +24,7 @@ renglones
 
 # Featured Projects
 - Diabetes [Publication]()
-- thompson [Publication]()
+- Specific Charge of the electron. [Publication](https://www.overleaf.com/read/vnwqjrqswrdv)
 - compton [Publication]()
 
 # Technical Skills
