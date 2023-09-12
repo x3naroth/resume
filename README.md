@@ -1,4 +1,4 @@
-# resume
+# Data Science Trainee
 
 - Email: xenaroth@gmail.com
 - Location: La Plata, Buenos Aires, Argentina
@@ -7,6 +7,13 @@
 - Bachelor's Degree in Physics
   UNLP, 2018 - Present
 
+# Languaje
+- Spanish: Native
+- English: Business Proficient
+
+# Summary
+
+
 # Work Experience
 - Bank customer service representative 2010 - 2014
 - Bank manager assistant 2014 - 2017 
@@ -14,9 +21,9 @@
 - General store manager 2022 - present
 
 # Featured Projects
-- Diabetes 
-- thompson
-- compton
+- Diabetes [Publication]()
+- thompson [Publication]()
+- compton [Publication]()
 
 # Technical Skills
 - Python
