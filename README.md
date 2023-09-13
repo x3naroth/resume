@@ -6,7 +6,11 @@
 # Education
 - Bachelor's Degree in Physics
   UNLP, 2018 - Present
-
+- Machine Learning Specialization
+  Stanford University, 2023
+- The Complete Python Programming
+  Course: Beginner to Advanced,
+  Udemy, 2023
 # Language
 - Spanish: Native
 - English: Business Proficient
