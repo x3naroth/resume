@@ -23,7 +23,7 @@ Provide products to customers, stock tracking.
 
 Schedule orders, pay to providers, make desitions regarding of adding or removing products from stock, manage personal in charge.
 # Featured Projects
-- Diabetes [Analysis](https://www.overleaf.com/read/kfmjdgbmcfrq)[Repo](https://github.com/x3naroth/Diabetes_prediction.git)
+- Diabetes [Analysis](https://www.overleaf.com/read/kfmjdgbmcfrq) [Repository](https://github.com/x3naroth/Diabetes_prediction.git)
 - Specific Charge of the electron. [Research document](https://www.overleaf.com/read/vnwqjrqswrdv)
 - Rest energy of the electron through Compton effect. [Research document](https://www.overleaf.com/read/nhnzbpwxpznd)
 # Education
