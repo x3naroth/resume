@@ -7,15 +7,19 @@
 Banco de la Provincia de Buenos Aires 2010 - 2017
 - Customer service representative 2010 - 2014
 
+
 Provided several financial solutions for customers needs, such as loans, lesser investments, register and update customers personal information.
 - Bank manager assistant 2014 - 2017
+
 
 Assist the Manger's agenda, coordinate meetings with enterprises, solve companies needs such as massive accounts registration and setting up software for them, as well as loan score validation.
 Integral 65 general store 2018 - present
 - Employee 2018 - 2021
 
+
 Provide products to customers, stock tracking.
 - Manager 2022 - present
+
 
 Schedule orders, pay to providers, make desitions regarding of adding or removing products from stock, manage personal in charge.
 # Featured Projects
