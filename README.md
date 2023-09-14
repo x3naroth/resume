@@ -46,15 +46,7 @@ Integral 65 general store 2018 - present
 - English: Business Proficient
 
 # Technical Skills
-- Python
-- Machine Learning
-- Deep Learning
-- SQL
-- Calculus
-- Linear Algebra
-- Statistics
-- Physics
-- Experimental Modeling
+Python Machine Learning Deep Learning SQL Calculus Linear Algebra Statistics Physics Experimental Modeling
   
 # Strenghts
 
