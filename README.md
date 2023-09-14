@@ -13,14 +13,18 @@ renglones
 # Work Experience
 Banco de la Provincia de Buenos Aires 2010 - 2017
 - Customer service representative 2010 - 2014
-    Worked providing several financial solutions for customers needs, such as loans, lesser investments, registering and updating customers personal information.
+
+  Worked providing several financial solutions for customers needs, such as loans, lesser investments, registering and updating customers personal information.
 - Bank manager assistant 2014 - 2017
-    Worked assisting the Manger's agenda, coordinating meetings with enterprises, solve companies needs such as massive accounts registration and setting up software for them, as well as loan score validation.
+
+  Worked assisting the Manger's agenda, coordinating meetings with enterprises, solve companies needs such as massive accounts registration and setting up software for them, as well as loan score validation.
 Integral 65 general store 2018 - present
 - Employee 2018 - 2021
-    Provided products to customers, stock tracking.
+
+  Provided products to customers, stock tracking.
 - Manager 2022 - present
-    Schedule orders, pay to providers, make desitions regarding of adding or removing products from stock, manage personal in charge.
+
+  Schedule orders, pay to providers, make desitions regarding of adding or removing products from stock, manage personal in charge.
 # Featured Projects
 - Diabetes [Analysis](https://www.overleaf.com/read/kfmjdgbmcfrq)
 - Specific Charge of the electron. [Research document](https://www.overleaf.com/read/vnwqjrqswrdv)
