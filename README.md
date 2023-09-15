@@ -23,7 +23,7 @@ Provide products to customers, stock tracking.
 
 Schedule orders, pay to providers, make desitions regarding of adding or removing products from stock, manage personal in charge.
 # Featured Projects
-- Diabetes [Analysis](https://www.overleaf.com/read/kfmjdgbmcfrq) [Repository](https://github.com/x3naroth/Diabetes_prediction.git)
+- Diabetes [Analysis](https://www.overleaf.com/read/kfmjdgbmcfrq)/[Repository](https://github.com/x3naroth/Diabetes_prediction.git)
 - Specific Charge of the electron. [Research document](https://www.overleaf.com/read/vnwqjrqswrdv)
 - Rest energy of the electron through Compton effect. [Research document](https://www.overleaf.com/read/nhnzbpwxpznd)
 # Education
@@ -42,7 +42,7 @@ Schedule orders, pay to providers, make desitions regarding of adding or removin
 # Strenghts
 - Analytical thinking: Able to reduce large problems to their fundamental parts in order to provide an optimal solution.
 - curious mind: Getting new knowledge its always a pleasure. From astrophysics to health care, buisness analysis or challenging games.
-- Teamwork: It's crucial to clearle communicate with the whole team both vertically and horizontally in order to optimize the project performance, the final product value and the individual growth from everyone.
+- Teamwork: It's crucial to clearly communicate with the whole team both vertically and horizontally in order to optimize the project performance, the final product value and the individual growth from everyone.
 # Technical Skills
 - Python
 - Machine Learning
