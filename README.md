@@ -3,6 +3,8 @@
 - Email: xenaroth@gmail.com
 - Location: La Plata, Buenos Aires, Argentina
 ---
+
+
 ## Work Experience
 **Customer service representative 2010 - 2014** - _Banco de la Provincia de Buenos Aires (Public Bank)_
 - Providing several financial solutions for customers needs, such as loans, lesser investments, registering and updating customers personal information.
