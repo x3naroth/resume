@@ -16,7 +16,7 @@
 - Schedule orders, pay to providers, make desitions regarding of adding or removing products from stock, manage personal in charge.
 
 ### Featured Projects
-- Diabetes. [Summary](https://www.overleaf.com/read/kfmjdgbmcfrq)/[Repository](https://github.com/x3naroth/Diabetes_prediction.git)
+- Models for early diabetes prediction. [Summary](https://www.overleaf.com/read/kfmjdgbmcfrq)/[Repository](https://github.com/x3naroth/Diabetes_prediction.git)
 - Specific Charge of the electron. [Research document](https://www.overleaf.com/read/vnwqjrqswrdv)
 - Rest energy of the electron through Compton effect. [Research document](https://www.overleaf.com/read/nhnzbpwxpznd)
   
