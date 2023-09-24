@@ -1,6 +1,7 @@
 # Physics Student
 
-- Email: xenaroth@gmail.com
+- Email: miranda.luc.90@gmail.com
+- Phone: +542216060747
 - Location: La Plata, Buenos Aires, Argentina
 
 ---
