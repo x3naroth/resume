@@ -10,7 +10,7 @@ Since I was a child, I always wanted to understand why things are the way they a
 
 ## Work Experience
 **Bank manager assistant 2014 - 2017** - _Banco de la Provincia de Buenos Aires (Public Bank)_
-- Assisting the Manger's agenda, setting up software for enterprises,  loan scoring validation.
+- Assisting the Manger's agenda, setting up software for enterprises,  loan scoring validation. Helped to make my branch the number one in sales in my region in 2016.
  
 **Customer service representative 2010 - 2014** - _Banco de la Provincia de Buenos Aires (Public Bank)_
 - Providing several financial solutions for customers needs. Registering and updating customers personal information.
