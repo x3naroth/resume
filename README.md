@@ -17,7 +17,6 @@ Since I was a child, I always wanted to understand why things are the way they a
 - Assisting the Manager's agenda, setting up software for enterprises,  loan scoring validation. Providing several financial solutions for customers needs. Helped to make my branch the number one in sales in my region in 2016.
 
 ### Featured Projects
-- **Models for early diabetes prediction** - Machine learning models and neural networks were used to predict potential diabetic patients for early diagnosis and treatment, based on blood test and triage data collection, getting recall and precision metrics above 93% [Summary](https://www.overleaf.com/read/kfmjdgbmcfrq)/[Repository](https://github.com/x3naroth/Diabetes_prediction.git)
 - **Models for early diabetes prediction** - Machine learning models and neural networks were used to predict potential diabetic patients for early diagnosis and treatment, based on blood test and triage data collection, getting recall and precision metrics above 93%.
 - **Sentiment analysis** - Data scraping was performed on several medical articles posts in order to perform sentiment analysis using NLP techniques.
 - **Chatbot** - PyPDF2 and transformers were used to build a chatbot that answers questions from loaded pdfs. 
